@@ -18,4 +18,4 @@ This repository can deploy the example described above. Follow these steps to de
  
 2. Run notebook for ML
 
-  Upload the [trade_anomaly_detection.ipynb](https://github.com/sfc-gh-csharkey/Snowflake_ML_Trade_Anomaly_Detection/blob/main/trade_anomaly_detection.ipynb) to a Snowflake workspace and run the notebook cell by cell. Each cell includes a description of its purpose.
+     Upload the [trade_anomaly_detection.ipynb](https://github.com/sfc-gh-csharkey/Snowflake_ML_Trade_Anomaly_Detection/blob/main/trade_anomaly_detection.ipynb) to a Snowflake workspace and run the notebook cell by cell. Each cell includes a description of its purpose.
