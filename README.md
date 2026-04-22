@@ -1,6 +1,6 @@
 # Trade Anomaly Detection via. Snowflake ML
 
-<img width="85" alt="map-user" src="https://img.shields.io/badge/views-018-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-009-green">
+<img width="85" alt="map-user" src="https://img.shields.io/badge/views-018-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-015-green">
 
 Anomaly detection on financial trade data using Snowflake ML. Specifically within Snowflake's machine learning capabilities this example registers data from a Snowflake table into the feature store, prepares training and test datasets from the feature store, trains two variants of a classification model - logging them as part of an experiment. The best model from the experiment is registered with Snowflake's model registry where observability and lineage are available.
 
